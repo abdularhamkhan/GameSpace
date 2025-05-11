@@ -34,8 +34,8 @@ const Navbar = () => {
           <Link href="/games/whack-a-mole" className="text-white hover:bg-[#C26DFC]/20 px-3 py-2 rounded-xl transition-colors">
             Whack-a-Mole
           </Link>
-          <Link href="/games/game2" className="text-white hover:bg-[#C26DFC]/20 px-3 py-2 rounded-xl transition-colors">
-            Game 2
+          <Link href="/games/1024" className="text-white hover:bg-[#C26DFC]/20 px-3 py-2 rounded-xl transition-colors">
+            1024
           </Link>
           <Link href="/games/game3" className="text-white hover:bg-[#C26DFC]/20 px-3 py-2 rounded-xl transition-colors">
             Game 3
@@ -58,8 +58,8 @@ const Navbar = () => {
         <Link href="/games/whack-a-mole" className="block text-white hover:bg-[#C26DFC]/20 px-4 py-2 rounded-xl transition-colors">
           Whack-a-Mole
         </Link>
-        <Link href="/games/game2" className="block text-white hover:bg-[#C26DFC]/20 px-4 py-2 rounded-xl transition-colors">
-          Game 2
+        <Link href="/games/1024" className="block text-white hover:bg-[#C26DFC]/20 px-4 py-2 rounded-xl transition-colors">
+          1024
         </Link>
         <Link href="/games/game3" className="block text-white hover:bg-[#C26DFC]/20 px-4 py-2 rounded-xl transition-colors">
           Game 3

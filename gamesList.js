@@ -1,6 +1,6 @@
 import TicTacToe from "./components/games/tictactoe";
 import Whack_A_Mole from "./components/games/whack-a-mole";
-
+import game3 from "./components/games/1024";
 const games = {
     "whack-a-mole": {
         component: Whack_A_Mole
@@ -8,6 +8,10 @@ const games = {
 
     "tictactoe": {
         component: TicTacToe
+    },
+
+    "1024": {
+        component: game3
     }
 }
 
